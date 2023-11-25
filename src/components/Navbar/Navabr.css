@@ -61,7 +61,8 @@
     font-weight: 500;
   }
   .button {
-    margin-left: 0;
+    margin-left: 3rem;
+    margin-right: 2rem;
     padding: 5px 10px;
     background-color: #f27a44;
     color: white;
@@ -72,8 +73,10 @@
   }
   .btn {
     font-size: 0.7rem;
+
     outline: none;
     border: none;
     background-color: #fff;
+    display: none;
   }
 }
