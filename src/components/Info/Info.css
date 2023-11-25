@@ -212,7 +212,7 @@ button {
   }
   .form {
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    width: 23rem;
+    width: 21rem;
     height: 32rem;
     padding: 1rem 2rem;
     border-radius: 1.5rem;
@@ -221,5 +221,14 @@ button {
     display: flex;
     align-items: center;
     padding: 0;
+  }
+  .button-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 1.4rem;
+    gap: 2rem;
   }
 }
