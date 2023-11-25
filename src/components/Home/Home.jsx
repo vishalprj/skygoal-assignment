@@ -86,8 +86,8 @@ export const Home = () => {
               src="https://res.cloudinary.com/ddlpde95c/image/upload/v1700898096/card-image_bsmygx.png"
               alt="City 1"
             />
-            <div className="city-name">City 1</div>
-            <div className="city-description">Description of City 1.</div>
+            <div className="city-name">Harvard University</div>
+            <div className="city-description">Cambridge, UK</div>
           </div>
           <div className="city-card">
             <img
@@ -95,8 +95,8 @@ export const Home = () => {
               src="https://res.cloudinary.com/ddlpde95c/image/upload/v1700898104/card-image-1_x9rxet.png"
               alt="City 2"
             />
-            <div className="city-name">City 2</div>
-            <div className="city-description">Description of City 2.</div>
+            <div className="city-name">Oxford University</div>
+            <div className="city-description">Oxford, England</div>
           </div>
           <div className="city-card">
             <img
@@ -104,8 +104,8 @@ export const Home = () => {
               src="https://res.cloudinary.com/ddlpde95c/image/upload/v1700898117/card-image-2_hpgjii.png"
               alt="City 3"
             />
-            <div className="city-name">City 3</div>
-            <div className="city-description">Description of City 3.</div>
+            <div className="city-name">Stanford University</div>
+            <div className="city-description">Stanford California</div>
           </div>
           <div className="city-card">
             <img
@@ -113,8 +113,8 @@ export const Home = () => {
               src="https://res.cloudinary.com/ddlpde95c/image/upload/v1700898116/card-image-3_dgahod.png"
               alt="City 4"
             />
-            <div className="city-name">City 4</div>
-            <div className="city-description">Description of City 4.</div>
+            <div className="city-name">Nanyang Technology</div>
+            <div className="city-description">Nanyang Ave</div>
           </div>
         </div>
         <div className="arrow-container">
